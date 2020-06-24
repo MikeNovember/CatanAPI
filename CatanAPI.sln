@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatanAPI", "CatanAPI\CatanAPI.csproj", "{585C560F-C427-43BE-9AF0-C482C73D3B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585C560F-C427-43BE-9AF0-C482C73D3B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585C560F-C427-43BE-9AF0-C482C73D3B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585C560F-C427-43BE-9AF0-C482C73D3B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585C560F-C427-43BE-9AF0-C482C73D3B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C5F0800-E052-411C-B40F-CDEE98442B8F}
+	EndGlobalSection
+EndGlobal
